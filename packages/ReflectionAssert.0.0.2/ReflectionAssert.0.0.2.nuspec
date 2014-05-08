@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ReflectionAssert</id>
+    <version>0.0.2</version>
+    <authors>Kyle Gustafson</authors>
+    <owners>Kyle Gustafson</owners>
+    <projectUrl>https://github.com/gustafsonk/ReflectionAssert</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Uses reflection to compare objects.</description>
+  </metadata>
+</package>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product>
+    <name>Samsung 5</name>
+    <price>4999</price>
+  </product>
+  <product>
+    <name>Sony Xperia</name>
+    <price>3999</price>
+  </product>
+</products> 
